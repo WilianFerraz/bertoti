@@ -30,13 +30,19 @@ A ideia forte desse trecho é a definição de engenharia de software como "prog
    - **A troca:** Entregar uma funcionalidade rápida para cumprir um prazo apertado.
    - **O trade-off:** Você ganha tempo agora, mas abre mão da organização do código. No futuro, vai gastar mais tempo corrigindo bugs ou refatorando.
 
+Um ponto incrivel sobre esse ponto é que torna possível a opção de oferta para a empresa ou grupo que se esta oferecendo, criando algo somente pratico para uma demanda rapida ou algo mais complexo, essa ideia é basicamente o que o Google oferta citado no primeiro texto, um código que se mantem por muito tempo.
+
 2. **Desempenho em Memória vs. Uso de Processamento**
    - **A troca:** Fazer o cache de resultados de consultas pesadas na memória RAM para a aplicação responder instantaneamente.
    - **O trade-off:** A resposta fica ultra rápida, mas o consumo de memória RAM aumenta consideravelmente.
 
+Segue uma ideia de transformar um serviço em algo pratico e fluido, porem mata outras possibilidades onde rodar algo grande nesse auto consumo de memória e precisar de outra tarefa grande, o computador pode sofrer inúmeros problemas, desde superaquecer ou diminuir o tempo útil de vida dele, embora tal foco venha com consciência de quem faz, então segue para um funcionamento prático.
+
 3. **Software Próprio (Sob Medida) vs. Software Pronto (SaaS)**
    - **A troca:** Desenvolver um sistema do zero totalmente adaptado ao seu processo.
    - **O trade-off:** Você ganha flexibilidade total, mas abre mão de tempo e orçamento em comparação a assinar algo pronto.
+  
+Esse é uma decisão que eu sinto ser bem sobre o nível da empresa, não somente sendo pela utilidade, uma empresa pequeno sempre vai preferir algo pronto e barato, embora a troca seja ruim, ter algo pronto para o que você deseja feito do 0 é uma solução para problemas atuais e futuros.
 
 ---
 
